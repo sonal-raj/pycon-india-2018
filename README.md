@@ -1,5 +1,5 @@
-# pycon-india-2018
-## Home Automation using Python and Alexa
+# Home Automation using Python and Alexa
+## PyCon India 2018
 Repository for the slides and sample code segments for my talk at PyCon India 2018.
 
 ## Currently explored systems
